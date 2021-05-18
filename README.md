@@ -1,4 +1,4 @@
-# Sonarqube Example with NodeJS
+# Sonarqube Example with NodeJS Test
 
 Here you will find an example of project configured to be analyzed with SonarQube
 
